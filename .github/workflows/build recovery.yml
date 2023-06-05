@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/wtmntm114514/android_device_vivo_PD2165'
+        default: 'https://github.com/mominqimiang/android_devices_vivo_t1_5g_in'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
